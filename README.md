@@ -43,7 +43,7 @@ The project utilizes the following data sources:
 
 ## Tools and Technologies
 
-- **MySQL**: For data processing, analysis, and modeling.
+- **PostgreSQL**: For data processing, analysis, and modeling.
 
 
 ## Results and Insights
